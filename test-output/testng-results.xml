@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-02T14:45:31 AST" name="Suite" finished-at="2021-12-02T14:46:28 AST" duration-ms="56799">
+    <groups>
+    </groups>
+    <test started-at="2021-12-02T14:45:31 AST" name="Test" finished-at="2021-12-02T14:46:28 AST" duration-ms="56799">
+      <class name="FirstFramework.AppiumFramework1.ecommerceProject_TC4">
+        <test-method is-config="true" signature="KillAll()[pri:0, instance:FirstFramework.AppiumFramework1.ecommerceProject_TC4@4b8ee4de]" started-at="2021-12-02T14:45:31 AST" name="KillAll" finished-at="2021-12-02T14:45:34 AST" duration-ms="3026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillAll -->
+        <test-method signature="totalValidation()[pri:0, instance:FirstFramework.AppiumFramework1.ecommerceProject_TC4@4b8ee4de]" started-at="2021-12-02T14:45:34 AST" name="totalValidation" finished-at="2021-12-02T14:46:08 AST" duration-ms="33480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method is-config="true" signature="KillAll2()[pri:0, instance:FirstFramework.AppiumFramework1.ecommerceProject_TC4@4b8ee4de]" started-at="2021-12-02T14:46:25 AST" name="KillAll2" finished-at="2021-12-02T14:46:28 AST" duration-ms="3015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillAll2 -->
+      </class> <!-- FirstFramework.AppiumFramework1.ecommerceProject_TC4 -->
+      <class name="FirstFramework.AppiumFramework1.apiDemoTest">
+        <test-method signature="ApiDemo(java.lang.String)[pri:0, instance:FirstFramework.AppiumFramework1.apiDemoTest@428640fa]" started-at="2021-12-02T14:46:08 AST" name="ApiDemo" data-provider="InputData" finished-at="2021-12-02T14:46:25 AST" duration-ms="17250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiDemo -->
+      </class> <!-- FirstFramework.AppiumFramework1.apiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+ <listener class-name="Resources.Listener"/>  
+  <listener class-name="Resources.ExtentReporterNG"/>  
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="FirstFramework.AppiumFramework1.ecommerceProject_TC4"/>  
+       <class name="FirstFramework.AppiumFramework1.apiDemoTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
