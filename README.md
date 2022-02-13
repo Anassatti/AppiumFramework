@@ -12,3 +12,7 @@ This repo is about mobile automation testing using Appium
 4.Testng
 
 5.Extentreport
+
+**Report**
+
+HTML Report
