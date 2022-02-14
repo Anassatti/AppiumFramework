@@ -1,5 +1,5 @@
 # MobileAutomation_using_AppiumFramework
-This repo is about mobile automation testing using Appium 
+This repo is about mobile automation(Andriod) testing using Appium 
 
 **Technologies**
 
